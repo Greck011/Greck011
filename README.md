@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Greck011
-- I'm Computer Scienset.
+- I'm Computer Sciencet.
 - Java Programmer
 - 👀 I’m interested in Computer Science, games and tecnology...
