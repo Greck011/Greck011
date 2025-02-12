@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @Greck011
+- I'm Computer Scienset
 - 👀 I’m interested in Computer Science...
