@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Greck011
 - I'm Computer Sciencet.
-- Java Programmer Junior
+- Java Programmer Junior | I.T | Computer Scientist.
 - 👀 I’m interested in Computer Science, games and tecnology...
